@@ -29,7 +29,7 @@
     "puppeteer": "^5.5.0",
     "sanitize-filename": "^1.6.3",
     "shell.js": "^3.2.4",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "shopify-scrape": "^2.1.1"
   },
   "devDependencies": {
