@@ -25,7 +25,7 @@
     "filenamify": "^5.0.0",
     "html-to-text": "^8.0.0",
     "max-listeners-exceeded-warning": "^0.0.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "puppeteer": "^5.5.0",
     "sanitize-filename": "^1.6.3",
     "shell.js": "^3.2.4",
