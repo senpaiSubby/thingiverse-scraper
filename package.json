@@ -21,7 +21,7 @@
     "alert": "^5.0.10",
     "cheerio": "^1.0.0-rc.10",
     "discord.js": "^12.5.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "filenamify": "^5.0.0",
     "html-to-text": "^8.0.0",
     "max-listeners-exceeded-warning": "^0.0.1",
